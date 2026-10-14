@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title desc">
+  <title id="title">Naser Maaz</title>
+  <desc id="desc">Full-stack development. Connected interface, service, and data layers.</desc>
+  <rect width="1000" height="250" rx="16" fill="#eaf5ed"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="44" y="115" fill="#123a2b" font-size="86" font-weight="700" letter-spacing="-2">Naser Maaz</text>
+    <text x="49" y="168" fill="#355f4b" font-size="30">Interfaces. APIs. Connected systems.</text>
+  </g>
+  <path d="M50 208H622" fill="none" stroke="#87b59b" stroke-width="1"/>
+  <path d="M50 208H150" fill="none" stroke="#176b45" stroke-width="3"/>
+  <g fill="#d9ecdf" stroke="#87b59b" stroke-width="2">
+    <rect x="742" y="40" width="170" height="91" rx="12"/>
+    <rect x="774" y="98" width="170" height="91" rx="12"/>
+    <rect x="710" y="155" width="170" height="58" rx="12"/>
+  </g>
+  <g fill="none" stroke="#176b45" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M760 65h130M760 85h62"/>
+    <path d="m800 123-11 10 11 10m34-20 11 10-11 10m-15-24-6 28"/>
+    <path d="M735 177h117M735 191h72"/>
+    <path d="M698 85h-20v99h20"/>
+  </g>
+  <circle cx="678" cy="135" r="5" fill="#176b45"/>
+</svg>
