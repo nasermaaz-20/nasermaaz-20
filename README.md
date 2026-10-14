@@ -20,7 +20,7 @@ I'm Mohammed Naser Maaz, an Information Engineering student building business we
 
 **Independent website development · Client portfolio**
 
-[![DESIGN-MAN website: responsive portfolio with a teal visual identity](./assets/design-man.jpg?v=2)](https://design-man.naser-nsrfnz2000.workers.dev/)
+[![DESIGN-MAN website: responsive portfolio with a teal visual identity](./assets/Screenshot%202026-10-14%20114512.png)](https://design-man.naser-nsrfnz2000.workers.dev/)
 
 I independently built the complete website for graphic designer **Yaman Balkesh**, including the responsive interface and motion effects. The featured graphic-design work belongs to Yaman.
 
@@ -32,7 +32,7 @@ I independently built the complete website for graphic designer **Yaman Balkesh*
 
 **Full-stack development · Business website**
 
-[![TechnoSoft website: Arabic RTL computer services homepage](./assets/technosoft.jpg?v=2)](https://technosoft-store.com/)
+[![TechnoSoft website: Arabic RTL computer services homepage](./assets/Screenshot%202026-10-14%20114530.png)](https://technosoft-store.com/)
 
 An Arabic RTL business website with a product catalog, service listings, and an admin dashboard for managing content.
 
